@@ -1,1 +1,2 @@
-# Thor-s-Paralell-Hammer
+# Thor's Paralell Hammer
+
